@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.Tables{
+	border: 2Px solid black;
+	border-collapse: collapse;
+}
+
+h1{
+	color: black;
+	right: 5px;
+}
+
+td{
+	text-align: center;
+	font-size: large;
+	font-family: sans-serif;
+}
+
+h2{
+	font-style: oblique;
+	color: #4fb9e3;
+}
+
+span{
+	font-style: italic;
+	font-family: cursive;
+	font-size: x-large;
+}

@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+.Tables{
+	border: 2Px solid black;
+	border-collapse: collapse;
+}
+
+.Tables1{
+	border: 2Px solid black;
+	border-collapse: collapse;
+}
+
+h1{
+	margin-top: 80px;
+	color: red;	
+}
+
+form{
+	
+	display: inline-block;
+	float: right;
+	margin-right: 10px;
+	
+}
+
+th{
+	background-color: #03dffc;
+}
+
+.image{
+		position: fixed;
+		bottom: 0px;
+		right: 5px;
+}
+
+td{
+	background-color: #dadde3;
+}

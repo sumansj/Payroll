@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+h3{
+	
+	margin-top: 100px;
+	margin-right: 20px;
+	font-family: cursive;
+	font-style: italic;
+	font-weight: 300;
+	font-size: x-large;
+	color: #4fb9e3;
+}
+
+h4{
+	
+	margin-top : 0px;
+	margin-left: 80px;
+	font-family: cursive;
+	font-style: italic;
+	font-weight: 300;
+	font-size: xx-large;
+	
+}
+
+#table{
+	
+	margin-left: 80px;
+	
+}
+
+#name{
+	text-align: right;
+	
+}
